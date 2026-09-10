@@ -1,5 +1,3 @@
-# Repositorio de ARTEFATO: nada aqui deve ser reescrito pelo git.
-# Sem isto o git normaliza fim de linha nos .js/.css/.html e, pior, pode
-# tocar nos .br/.gz pre-comprimidos se algum dia deixar de detecta-los como
-# binarios. O conteudo tem de sair identico ao que foi conferido.
+# Repositório de ARTEFATO: nada aqui deve ser reescrito pelo git.
+# O conteúdo tem de sair idêntico ao que foi conferido.
 * -text

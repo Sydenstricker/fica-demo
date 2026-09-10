@@ -1,0 +1,1 @@
+import{a as e,m as t}from"./index-BdD39mkG.js";export{e as readLinguisticProfile,t as writeLinguisticProfile};

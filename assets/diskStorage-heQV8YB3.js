@@ -1,1 +1,0 @@
-import{a as e,m as t}from"./index-DDqo6dYb.js";export{e as readLinguisticProfile,t as writeLinguisticProfile};
