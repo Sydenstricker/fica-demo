@@ -1,0 +1,1 @@
+import{a as e,m as t}from"./index-D27xHvb4.js";export{e as readLinguisticProfile,t as writeLinguisticProfile};
